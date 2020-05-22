@@ -3,7 +3,6 @@
 ## Table of contents
 
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -11,14 +10,14 @@
 
 # General info
 
-This Project was made as one of the final in programing school CodersLab Course with the use of React.js, HTML,SCSS technologies. The design focused on simple presentation of some company.
+This Project was made as one of the final in programing school CodersLab Course with the use of JavaScript, HTML,SCSS technologies. The design focused on simple presentation of some company.
 
 ## Screenshots
 
 
 ## Technologies
 
-React.js
+JavaScript
 HTML 
 SASS 
 
@@ -29,7 +28,7 @@ Project is: finished.
 
 ## Inspiration
 
-Project based on .
+Project based on my own concept.
 
 ## Contact
 
